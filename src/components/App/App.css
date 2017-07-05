@@ -60,7 +60,7 @@ a:hover {
 }
 
 .fb-icon-bg:after {
-  content: url(https://dl.dropboxusercontent.com/u/54149043/CssDeck/fb-icon.png);
+  content: url();
   display: block;
   padding: 9px 10px 5px 15px;
 }
@@ -95,7 +95,7 @@ a:hover {
 
 /* Twitter */
 .twi-icon-bg:after {
-  content: url(https://dl.dropboxusercontent.com/u/54149043/CssDeck/twi-icon.png);
+  content: url();
   display: block;
   padding: 11px 10px 6px 11px;
 }
@@ -136,7 +136,7 @@ a:hover {
 
 /* Google+ */
 .g-icon-bg:after {
-  content: url(https://dl.dropboxusercontent.com/u/54149043/CssDeck/g-icon.png);
+  content: url();
   display: block;
   padding: 11px 10px 6px 13px;
 }
