@@ -44,6 +44,7 @@ class App extends Component {
 
     firebase.auth().signInWithPopup(provider)
       .then( (result) => {
+        console.log(result);
         console.log(`${result.user.email} ha iniciado session`);
       }).catch( (error) => {
         console.log(`Error ${error.code}: ${error.message}`);
