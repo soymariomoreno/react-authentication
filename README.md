@@ -5,15 +5,15 @@ Using the Firebase API, we create a form of authentication with social networks:
 Using datas like: DisplayName and PhotoURL
   
 
-##Instalation
+## Instalation
 
-###Update dependencies
+### Update dependencies
 
 ```bash
 yarn install or npm install
 ```
 
-###Running server
+### Running server
 
 ```bash
 yarn start or npm start
